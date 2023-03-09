@@ -70,10 +70,15 @@ En el curso de programación en vivo se va a ver las siguientes cosas:
 # Nivel 3 - Ciencia de datos en Python
 
 # Nivel 4 - Modelos de aprendizaje supervisados (IA)
+
 # Nivel 5 - Modelos de aprendizaje no supervisados (IA)
+
 # Nivel 6 - Inteligencia artificial aplicada a imagenes y video(Computer vision)
+
 # Nivel 7 - Redes Neuronales
+
 # NIvel 8 - Subir a producción una IA y Scoring
+
 # Nivel 9 - Introducción a desarrollo web
 1. Diseño de Interfaces
 2. Introducción a HTML
@@ -87,9 +92,14 @@ En el curso de programación en vivo se va a ver las siguientes cosas:
 # Nivel 12 - Componetnes en React
 
 # NIvel 13 - Proyecto productivo en React
- # Nivel 14 - Unit testing
+
+# Nivel 14 - Unit testing
+ 
  1. Debbugging
  # Nivel 15 - Introducción a backend con Node.js
+ 
  # Nivel 16 - Express
+ 
  # Nivel 17 - TypeScript
+ 
 # Nivel 18 - Docker y Kubernetes
